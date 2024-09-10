@@ -16,4 +16,4 @@ Este README proporciona instrucciones sobre cómo ejecutar los archivos JavaScri
 
 3. Ejecuta el archivo JavaScript que desees usando el siguiente comando.
 
-   node nombre-del-archivo.js
+   - node nombre-del-archivo.js
